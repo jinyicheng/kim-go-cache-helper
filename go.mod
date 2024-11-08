@@ -1,10 +1,10 @@
 module github.com/jinyicheng/kim-go-cache-helper
 
-go 1.22.5
+go 1.18
 
 require (
 	github.com/json-iterator/go v1.1.12
-	github.com/redis/go-redis/v9 v9.6.0
+	github.com/redis/go-redis/v9 v9.7.0
 )
 
 require (
